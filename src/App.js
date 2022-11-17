@@ -5,9 +5,10 @@ import About from "./component/About/About"
 import Experience from "./component/Experience/Experience"
 import Services from "./component/Services/Services"
 import Portfolio from "./component/Portfolio/Portfolio"
-import Testimonials from "./component/Testomonials/Testomonials"
+// import Testimonials from "./component/Testomonials/Testomonials"
 import Contact from "./component/Contact/Contact"
 import Footer from "./component/Footer/Footer"
+
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
     <Experience/>
     <Services/>
     <Portfolio/>
-    <Testimonials/>
+     {/* <Testimonials/> */}
     <Contact/>
     <Footer/>
 

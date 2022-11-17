@@ -4,7 +4,7 @@ import "./testomonials.css"
 
 const Testomonials = () => {
   return (
-    <div>Testomonials</div>
+    <section id="testimonials">Testomonials</section>
   )
 }
 
